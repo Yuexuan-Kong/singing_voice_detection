@@ -1,5 +1,4 @@
 keras==2.1.2
-tensorflow-gpu==1.4.0
 librosa==0.6.1
-madmam=0.15.1
+madam==0.15
 ffmpeg
